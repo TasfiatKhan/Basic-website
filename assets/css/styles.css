@@ -1,0 +1,172 @@
+html {
+    scroll-behavior:smooth;
+    scroll-padding-top: 8%;
+}
+
+.banner {
+    background: url(../img/banner.jpg) no-repeat;
+    background-size: cover;
+}
+
+#logo {
+    height: 80px;
+    width: auto;
+    margin-top: 30px;
+    margin-left: 100px;
+
+}
+
+.navregbtn {
+    border-color:white;
+    border-radius: 16px;
+    float: right;
+    margin-top: 44px;
+    text-decoration: none;
+    font-family: 'Ample r';
+    color: white;
+    font-size: 20px;
+    margin-right: 80px;
+    margin-left: 30px;
+}
+
+.navregbtn:hover {
+    background-color: #FFF6BD;
+}
+
+.header-right {
+    float: right;
+    padding: 30px;
+    padding-top: 50px;
+    text-decoration: none;
+    font-family: 'Ample r';
+    color: white;
+    font-size: 20px;
+}
+
+.header-right:hover {
+    color: #FFF6BD;
+}
+
+#explore {
+    text-align: center;
+}
+
+.explore_btn {
+    border-color:#FFF6BD;
+    border-radius: 10px;
+    margin-top: 32px;
+    text-decoration: none;
+    font-family: 'Ample b';
+    color: #FFF6BD;
+    font-size: 20px;
+    margin-top: 430px;
+    margin-bottom: 70px;
+    margin-left: 20px;
+}
+
+.explore_btn:hover {
+    background-color: #FFF6BD;
+}
+
+.about {
+    text-align: center;
+}
+
+#p1 {
+    font-family: 'Ample m';
+    margin-top: 50px;
+    font-size: 22px;
+}
+
+#p2div {
+    width: 40%;
+    margin: auto;
+    font-family: cursive;
+    font-size: 14px;
+}
+
+#p3 {
+    font-family:'Brush Script MT', Brush Script Std, cursive;
+    margin-bottom: 60px;
+    font-size: 20px;
+}
+
+.whyus1 {
+    display: flex;
+    margin-bottom: 20px;
+    margin-top: 50px;
+}
+
+.whyus2 {
+    margin-bottom: 50px;
+}
+
+#whyus1img {
+    height: 300px;
+}
+
+.child1 {
+    width: 50%;
+    float: right;
+    margin: auto;
+}
+
+.child2 {
+    width: 30%;
+    text-align: center;
+    margin: auto;    
+    font-family: cursive;
+    margin-left: -200px;
+}
+
+.whybtn {
+    border-radius: 10px;
+}
+
+.whybtn:hover {
+    color: #FFF6BD;
+    background-color: black;
+}
+
+.child3 {
+    width: 30%;
+    text-align: center;
+    margin: auto;    
+    font-family: cursive;
+    margin-left: 150px;
+}
+
+#p4 {
+    font-family:'Brush Script MT', Brush Script Std, cursive;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+
+.subscribe {
+    background-color: #d3bc24;
+    text-align: center;
+    padding-top: 2px;
+    padding-bottom: 60px;
+}
+
+#inputEmail {
+    border-radius: 6px;
+}
+
+.submitbtn {
+    border-radius: 6px;
+    font-family: cursive;
+}
+
+.submitbtn:hover {
+    color: #FFF6BD;
+    background-color: black;
+}
+
+.footer {
+    text-align: center;
+    background-image: linear-gradient(to right, black, rgb(46, 46, 46));
+    padding-top: 50px;
+    padding-bottom: 30px;
+    color: white;
+}
